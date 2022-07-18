@@ -11,9 +11,10 @@ This starter template includes:
 
 ### Getting Started
 
+Run the following inside your new project folder. 
+
 ```sh
 npx degit shishirraven/vue_tailwind_starter_template
-cd vvt-app
 ```
 
 ```sh
